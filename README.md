@@ -8,12 +8,9 @@ My works related to Go programming language.
 4. [Go programming jobs.](#jobs)
 5. [GitHub notes.](#github)
 
-<a name="CSP"></a>
-## 3. Communicating sequential processes.
-
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="webassembly.png" height="150"> 
+<img src="Golang.png" height="150"> 
 Go, also known as Golang, is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
 <a name="references"></a>

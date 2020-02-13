@@ -17,7 +17,12 @@ Go, also known as Golang, is a statically typed, compiled programming language d
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
-Go official website : https://golang.org <br />
+Go programming language official website : https://golang.org <br />
+
+**_Go programming language developers in GitHub_** <br />
+Robert Griesemer : https://github.com/griesemer <br />
+Rob Pike : https://github.com/robpike <br />
+Ken Thompson : https://github.com/ken <br />
 
 <a name="CSP"></a>
 ## 3. Communicating sequential processes.

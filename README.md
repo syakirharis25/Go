@@ -19,7 +19,7 @@ Go programming language official website : https://golang.org <br />
 
 Microsoft open source projects website : https://opensource.microsoft.com <br />
 
-**_related articles_**
+**_related articles_** <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />
 
 **_Go programming language developers in GitHub_** <br />

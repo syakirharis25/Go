@@ -36,7 +36,8 @@ In computer science, communicating sequential processes (CSP) is a formal langua
 
 CSP was first described in a 1978 paper by Tony Hoare, but has since evolved substantially. CSP has been practically applied in industry as a tool for specifying and verifying the concurrent aspects of a variety of different systems, such as the T9000 Transputer, as well as a secure ecommerce system. The theory of CSP itself is also still the subject of active research, including work to increase its range of practical applicability (e.g., increasing the scale of the systems that can be tractably analyzed).
 
-4. [Go programming jobs.](#jobs)
+<a name="jobs"></a>
+## 4. Go programming jobs.
 Go / Golang Jobs & Developers by golangprojects : https://www.golangprojects.com <br />
 Go / Golang Jobs & Developers by golangprojects by Totaljobs : https://www.totaljobs.com/jobs/go-programmer <br />
 Go / Golang Jobs & Developers by golangprojects by SimplyHired : https://www.simplyhired.com/search?q=go+programming&job=yzD7SgAyVlbXVk56Z1e7EUJnm1CSOvVfNNgGES9xpACHOiI5Y8bUBw <br />

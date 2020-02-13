@@ -17,8 +17,12 @@ Go, also known as Golang, is a statically typed, compiled programming language d
 ## 2. Official references websites. <br />
 Go programming language official website : https://golang.org <br />
 Go programming language documentation : https://golang.org/doc/ <br />
+Gopher Academy Blog : https://blog.gopheracademy.com/gophers-slack-community/
 
 Microsoft open source projects website : https://opensource.microsoft.com <br />
+
+**_Go programming language projects_** <br />
+GoBridge : https://github.com/gobridge <br />
 
 **_Go programming language related articles_** <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />

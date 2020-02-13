@@ -23,6 +23,7 @@ Go programming language official website : https://golang.org <br />
 Robert Griesemer : https://github.com/griesemer <br />
 Rob Pike : https://github.com/robpike <br />
 Ken Thompson : https://github.com/ken <br />
+Russ Cox : https://github.com/rsc <br />
 
 <a name="CSP"></a>
 ## 3. Communicating sequential processes.

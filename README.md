@@ -57,7 +57,7 @@ $ sudo apt install vim
 $ sudo vim ~/.profile
 ```
 
-Then add the following contents, the global variable, on the bottom of the `.profile` file, by pressing **[ I ]** on your keyboard, copy and paste the below command on the end of the file.
+Then add the following contents, the global variable, on the bottom of the `.profile` file, press **[ 3 ]** or **[ PgDn ]** until you reach to the bottom of the file, then pressing **[ I ]** on your keyboard, copy and paste the below command on the end of the file.
 ```
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
@@ -66,12 +66,12 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 
 Then exit the vim text editor by typing pressing **[ Esc ]** on your keyboard, and then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the file.
 
-To review back what you already edited in the `.profile` file.
+To review back what you already edited in home `.profile` file.
 ```
 $ cat ~/.profile
 ```
 
-Then update the current shell session.
+Then update the current home shell session.
 ```
 $ source ~/.profile
 ```
@@ -80,6 +80,21 @@ Then check your installed Go version in your local machine.
 ```
 $ go version
 ```
+
+To check your Go tools in the local machine.
+```
+$ cd /usr/local/go
+$ ls
+```
+
+Then make some changes in your home `.bashrc` file
+```
+$ cd ~
+$ vim .bashrc
+```
+
+Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and press **[ I ]** to edit the `.bashrc` file, 
+
 
 <a name="jobs"></a>
 ## 5. Go programming jobs.

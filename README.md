@@ -46,6 +46,7 @@ Difference between fmt.Println() and println() in Go by Stack Overflow : https:/
 Functions by golang-book.com : https://www.golang-book.com/books/intro/7
 Package math by golang.org : https://golang.org/pkg/math/ <br />
 fmt.Printf formatting tutorial and cheat sheet : https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/ <br />
+Package fmt by golang.org : https://golang.org/pkg/fmt/ <br />
 
 **_Go programming language projects_** <br />
 GoBridge : https://github.com/gobridge <br />

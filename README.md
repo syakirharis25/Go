@@ -31,6 +31,7 @@ Microsoft open source projects website : https://opensource.microsoft.com <br />
 **_Go programming language related articles_** <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />
 Go in Visual Studio Code : https://code.visualstudio.com/docs/languages/go <br />
+Q: How do you Display Chinese characters in command prompt : https://stackoverflow.com/questions/39551549/q-how-do-you-display-chinese-characters-in-command-prompt <br />
 
 **_Go programming language developers in GitHub_** <br />
 Robert Griesemer : https://github.com/griesemer <br />

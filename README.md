@@ -38,9 +38,10 @@ Microsoft open source projects website : https://opensource.microsoft.com <br />
 **_Go programming language related articles_** <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />
 Go in Visual Studio Code : https://code.visualstudio.com/docs/languages/go <br />
-Q: How do you Display Chinese characters in command prompt : https://stackoverflow.com/questions/39551549/q-how-do-you-display-chinese-characters-in-command-prompt <br />
+Q: How do you Display Chinese characters in command prompt by Stack Overflow: https://stackoverflow.com/questions/39551549/q-how-do-you-display-chinese-characters-in-command-prompt <br />
 Go: Meaning of the 'fmt' package acronym : https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym <br />
-Whats the difference between uint and int in golang? : https://www.quora.com/Whats-the-difference-between-uint-and-int-in-golang <br />
+Whats the difference between uint and int in golang? by Quora : https://www.quora.com/Whats-the-difference-between-uint-and-int-in-golang <br />
+golang is slow in Windows [closed] by Quora : https://stackoverflow.com/questions/32062493/golang-is-slow-in-windows <br />
 
 **_Go programming language developers in GitHub_** <br />
 Robert Griesemer : https://github.com/griesemer <br />

@@ -23,6 +23,7 @@ Go programming language playground : https://play.golang.org/
 
 **_ Go programming questions and answers_**
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
+Quora questions and answers website : https://www.quora.com/ <br />
 
 **_Go programming language text editor_** <br />
 Visual Studio Code text editor : https://code.visualstudio.com <br />
@@ -39,7 +40,7 @@ Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-devel
 Go in Visual Studio Code : https://code.visualstudio.com/docs/languages/go <br />
 Q: How do you Display Chinese characters in command prompt : https://stackoverflow.com/questions/39551549/q-how-do-you-display-chinese-characters-in-command-prompt <br />
 Go: Meaning of the 'fmt' package acronym : https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym <br />
-
+Whats the difference between uint and int in golang? : https://www.quora.com/Whats-the-difference-between-uint-and-int-in-golang <br />
 
 **_Go programming language developers in GitHub_** <br />
 Robert Griesemer : https://github.com/griesemer <br />

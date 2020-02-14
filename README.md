@@ -42,6 +42,7 @@ Q: How do you Display Chinese characters in command prompt by Stack Overflow: ht
 Go: Meaning of the 'fmt' package acronym : https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym <br />
 Whats the difference between uint and int in golang? by Quora : https://www.quora.com/Whats-the-difference-between-uint-and-int-in-golang <br />
 golang is slow in Windows [closed] by Quora : https://stackoverflow.com/questions/32062493/golang-is-slow-in-windows <br />
+Constants by Rob Pike : https://blog.golang.org/constants <br />
 
 **_Go programming language developers in GitHub_** <br />
 Robert Griesemer : https://github.com/griesemer <br />

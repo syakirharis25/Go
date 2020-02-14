@@ -32,10 +32,6 @@ The Go Programming Language Specification by golang.org : https://golang.org/ref
 **_Go programming language text editor_** <br />
 Visual Studio Code text editor : https://code.visualstudio.com <br />
 
-**_Go programming language projects_** <br />
-GoBridge : https://github.com/gobridge <br />
-Microsoft open source projects website : https://opensource.microsoft.com <br />
-
 **_Go programming language related articles_** <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />
 Go in Visual Studio Code : https://code.visualstudio.com/docs/languages/go <br />
@@ -46,6 +42,12 @@ golang is slow in Windows [closed] by Quora : https://stackoverflow.com/question
 Constants by Rob Pike : https://blog.golang.org/constants <br />
 Loops in Go Language by GeeksforGeeks : https://www.geeksforgeeks.org/loops-in-go-language/ <br />
 Difference between := and = operators in Go by Stack Overflow : https://stackoverflow.com/questions/17891226/difference-between-and-operators-in-go <br />
+Difference between fmt.Println() and println() in Go by Stack Overflow : https://stackoverflow.com/questions/14680255/difference-between-fmt-println-and-println-in-go <br />
+Functions by golang-book.com : https://www.golang-book.com/books/intro/7
+
+**_Go programming language projects_** <br />
+GoBridge : https://github.com/gobridge <br />
+Microsoft open source projects website : https://opensource.microsoft.com <br />
 
 **_Go programming language developers in GitHub_** <br />
 Robert Griesemer : https://github.com/griesemer <br />

@@ -25,11 +25,12 @@ Go programming language playground : https://play.golang.org/
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 Quora questions and answers website : https://www.quora.com/ <br />
 
+**_Go programming language documentation by golang.org_** <br />
+Go Package fmt by golang.org : https://golang.org/pkg/fmt/ <br />
+The Go Programming Language Specification by golang.org : https://golang.org/ref/spec
+
 **_Go programming language text editor_** <br />
 Visual Studio Code text editor : https://code.visualstudio.com <br />
-
-**_Go programming language documentation by golang.org_** <br />
-Go Package fmt : https://golang.org/pkg/fmt/ <br />
 
 **_Go programming language projects_** <br />
 GoBridge : https://github.com/gobridge <br />

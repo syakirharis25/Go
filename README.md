@@ -43,6 +43,7 @@ Constants by Rob Pike : https://blog.golang.org/constants <br />
 Loops in Go Language by GeeksforGeeks : https://www.geeksforgeeks.org/loops-in-go-language/ <br />
 Difference between := and = operators in Go by Stack Overflow : https://stackoverflow.com/questions/17891226/difference-between-and-operators-in-go <br />
 Difference between fmt.Println() and println() in Go by Stack Overflow : https://stackoverflow.com/questions/14680255/difference-between-fmt-println-and-println-in-go <br />
+Functions by golang-book.com : https://www.golang-book.com/books/intro/7
 
 **_Go programming language projects_** <br />
 GoBridge : https://github.com/gobridge <br />

@@ -64,7 +64,7 @@ export GOPATH=$HOME/go
 export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 ```
 
-Then exit the vim text editor by typing pressing **[ Esc ]** on your keyboard, and then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the file.
+Then exit the vim text editor by typing pressing **[ Esc ]** on your keyboard, and then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the `.profile` file.
 
 To review back what you already edited in home `.profile` file.
 ```
@@ -93,8 +93,110 @@ $ cd ~
 $ vim .bashrc
 ```
 
-Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and press **[ I ]** to edit the `.bashrc` file, 
+Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then press **[ -> ]** and **[ -> ]** again, then press **[ ↓ ]** and press **[ ↓ ]** again, then press **[ I ]** to edit the `.bashrc` file, but before setting the GOROOT, read the post by `Dave` on the effect of modifying the file if you are working with multiple version of Go in your system, on his blog : https://dave.cheney.net/2013/06/14/you-dont-need-to-set-goroot-really, and then add the following text into the bottom of the `.bashrc` file.
+```
+export GOROOT=/usr/local/go
+export PATH=$PATH:$GOROOT/bin
+```
 
+Then press **[ Esc ]**, then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the `.bashrc` file.
+
+Review back what you already edited in home `.bashrc` file.
+```
+$ cat ~/.bashrc
+```
+
+Then update the current home shell session.
+```
+$ source ~/.bashrc
+```
+
+Then check your installed Go version in your local machine.
+```
+$ go version
+```
+
+Then go back into your `.bashrc` file to add the GOPATH to set the environment properly, to tell Go where your working files are located. 
+```
+$ vim .bashrc
+```
+
+Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then press **[ -> ]** and **[ -> ]** again, then press **[ ↓ ]** and press **[ ↓ ]** again, then press **[ I ]** to edit the `.bashrc` file, and then press **[ Enter ]** and  **[ Enter ]** again, and then add the following text into your `.bashrc` file.
+```
+export GOPATH=/home/username/golib
+export PATH=$PATH:GOPATH/bin
+```
+Then press **[ Esc ]**, then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the `.bashrc` file.
+
+Review back what you already edited in home `.bashrc` file.
+```
+$ cat ~/.bashrc
+```
+
+Then update the current home shell session.
+```
+$ source ~/.bashrc
+```
+
+Then go back into your `.bashrc` file to add the GOPATH to set the environment properly, to tell Go where your next working files are located. 
+```
+$ vim .bashrc
+```
+
+Then make a new folder called `golib`
+```
+$ mkdir golib
+```
+
+Then check the content inside the `golib`
+```
+$ cd golib
+$ ls
+```
+
+Then go back to your home directory.
+```
+$ cd ..
+```
+
+Then install `git` into Ubuntu machine. 
+```
+$ sudo apt-get install git
+```
+Enter your password when it asking for it, press **[ Y ]** and then **[ Enter ]** on your keyboard when it asking to continue.
+
+Test whether the content from GitHub will be downloaded into `golib` folder.
+```
+$ go get github.com/nsf/gocode
+$ cd golib
+$ ls
+$ cd bin 
+$ ls
+$ cd ../src
+$ ls
+$ cd github.com/nsf/
+$ ls
+$ cd gocode
+$ ls
+$ cd ~
+```
+
+Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then press **[ -> ]** and **[ -> ]** again, then press **[ ↓ ]** and press **[ ↓ ]** again, then press **[ I ]** to edit the `.bashrc` file, and then press **[ Enter ]** and  **[ Enter ]** again, and then add the following text into your `.bashrc` file.
+```
+export GOPATH=/home/username/code
+export PATH=$PATH:GOPATH/bin
+```
+Then press **[ Esc ]**, then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the `.bashrc` file.
+
+Review back what you already edited in home `.bashrc` file.
+```
+$ cat ~/.bashrc
+```
+
+Then update the current home shell session.
+```
+$ source ~/.bashrc
+```
 
 <a name="jobs"></a>
 ## 5. Go programming jobs.

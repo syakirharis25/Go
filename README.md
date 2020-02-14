@@ -24,6 +24,9 @@ Go programming language playground : https://play.golang.org/
 **_Go programming language text editor_** <br />
 Visual Studio Code text editor : https://code.visualstudio.com <br />
 
+**_Go programming language documentation by golang.org_**
+Go Package fmt : https://golang.org/pkg/fmt/ <br />
+
 **_Go programming language projects_** <br />
 GoBridge : https://github.com/gobridge <br />
 Microsoft open source projects website : https://opensource.microsoft.com <br />

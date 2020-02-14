@@ -165,7 +165,7 @@ $ sudo apt-get install git
 ```
 Enter your password when it asking for it, press **[ Y ]** and then **[ Enter ]** on your keyboard when it asking to continue.
 
-Test whether the content from GitHub will be downloaded into `golib` folder.
+Check whether the content from GitHub was downloaded into `golib` folder.
 ```
 $ go get github.com/nsf/gocode
 $ cd golib
@@ -200,6 +200,55 @@ $ cat ~/.bashrc
 Then update the current home shell session.
 ```
 $ source ~/.bashrc
+```
+Then make a new folder called `code`
+```
+$ mkdir code
+```
+
+Then check the content inside the `code`
+```
+$ cd code
+$ ls
+```
+
+Then go back to your home directory.
+```
+$ cd ..
+```
+
+Then remove everything from golib.
+```
+$ cd golib
+$ rm -rf *
+$ ls
+```
+
+Check whether the content from GitHub was downloaded into `golib` folder.
+```
+$ cd ..
+$ go get github.com/nsf/gocode
+$ cd golib
+$ ls
+```
+
+Check whether the content from GitHub was downloaded into `code` folder.
+```
+$ cd ../code
+$ ls
+```
+
+In order to have Go workspace, you need to have `src` folder in it
+```
+$ mkdir src
+$ ls
+```
+
+The other 2 folders that you need is `bin` and `pkg` folders
+```
+$ mkdir bin
+$ mkdir pkg
+$ ls
 ```
 
 <a name="jobs"></a>

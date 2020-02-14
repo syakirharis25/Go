@@ -21,10 +21,12 @@ Go programming language documentation : https://golang.org/doc/ <br />
 Gopher Academy Blog : https://blog.gopheracademy.com/gophers-slack-community/
 Go programming language playground : https://play.golang.org/
 
-Microsoft open source projects website : https://opensource.microsoft.com <br />
+**_Go programming language text editor_** <br />
+Visual Studio Code text editor : https://code.visualstudio.com <br />
 
 **_Go programming language projects_** <br />
 GoBridge : https://github.com/gobridge <br />
+Microsoft open source projects website : https://opensource.microsoft.com <br />
 
 **_Go programming language related articles_** <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />

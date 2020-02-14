@@ -21,10 +21,13 @@ Go programming language documentation : https://golang.org/doc/ <br />
 Gopher Academy Blog : https://blog.gopheracademy.com/gophers-slack-community/
 Go programming language playground : https://play.golang.org/
 
+**_ Go programming questions and answers_**
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
 **_Go programming language text editor_** <br />
 Visual Studio Code text editor : https://code.visualstudio.com <br />
 
-**_Go programming language documentation by golang.org_**
+**_Go programming language documentation by golang.org_** <br />
 Go Package fmt : https://golang.org/pkg/fmt/ <br />
 
 **_Go programming language projects_** <br />
@@ -35,6 +38,8 @@ Microsoft open source projects website : https://opensource.microsoft.com <br />
 Why did Google develop Go? by Quora : https://www.quora.com/Why-did-Google-develop-Go <br />
 Go in Visual Studio Code : https://code.visualstudio.com/docs/languages/go <br />
 Q: How do you Display Chinese characters in command prompt : https://stackoverflow.com/questions/39551549/q-how-do-you-display-chinese-characters-in-command-prompt <br />
+Go: Meaning of the 'fmt' package acronym : https://stackoverflow.com/questions/23597165/go-meaning-of-the-fmt-package-acronym <br />
+
 
 **_Go programming language developers in GitHub_** <br />
 Robert Griesemer : https://github.com/griesemer <br />

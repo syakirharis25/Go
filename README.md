@@ -121,7 +121,7 @@ Then go back into your `.bashrc` file to add the GOPATH to set the environment p
 $ vim .bashrc
 ```
 
-Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then press **[ -> ]** and **[ -> ]** again, then press **[ ↓ ]** and press **[ ↓ ]** again, then press **[ I ]** to edit the `.bashrc` file, and then press **[ Enter ]** and  **[ Enter ]** again, and then add the following text into your `.bashrc` file.
+Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then keep on press **[ -> ]** and **[ -> ]** again until it is end of the line, then press **[ ↓ ]** and press **[ ↓ ]** again, then press **[ I ]** to edit the `.bashrc` file, and then press **[ Enter ]** and  **[ Enter ]** again, and then add the following text into your `.bashrc` file.
 ```
 export GOPATH=/home/username/golib
 export PATH=$PATH:GOPATH/bin
@@ -181,12 +181,16 @@ $ ls
 $ cd ~
 ```
 
-Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then press **[ -> ]** and **[ -> ]** again, then press **[ ↓ ]** and press **[ ↓ ]** again, then press **[ I ]** to edit the `.bashrc` file, and then press **[ Enter ]** and  **[ Enter ]** again, and then add the following text into your `.bashrc` file.
+Then go back into your `.bashrc` file to add the GOPATH to set the environment properly, to tell Go where your next working files are located. 
+```
+$ vim .bashrc
+```
+
+Then press **[ 3 ]** or **[ PgDn ]** on your keyboard until you reach to the end of the file, and then keep on press **[ -> ]** and **[ -> ]** again until it is end of the line, then press **[ ↓ ]**, then press **[ I ]** to edit the `.bashrc` file, and then press **[ Enter ]**, and then add the following text into your `.bashrc` file. 
 ```
 export GOPATH=/home/username/code
-export PATH=$PATH:GOPATH/bin
 ```
-Then press **[ Esc ]**, then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the `.bashrc` file.
+This will act as your working space location. Then press **[ Esc ]**, then press **[ Shift ]** + **[ : ]**, then press **[ W ]** and then press **[ Q ]** on your keyboard, finally press **[ Enter ]** on your keyboard to write the command you added into the `.bashrc` file.
 
 Review back what you already edited in home `.bashrc` file.
 ```

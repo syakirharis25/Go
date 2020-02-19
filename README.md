@@ -8,6 +8,7 @@ My works related to Go programming language.
 4. [Installing Go programming language for Ubuntu 18.04 LTS manual.](#ubuntugo) 
 5. [Go programming jobs.](#jobs)
 6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -289,3 +290,17 @@ $ git clone https://github.com/syakirharis25/Go.git
 $ cd Go/
 $ git remote -v
 $ git status
+
+<a name="calculation"></a>
+## 7. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1             48              0            243
+Go                              11             47              7            130
+-------------------------------------------------------------------------------
+SUM:                            12             95              7            373
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc

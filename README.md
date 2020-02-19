@@ -290,6 +290,7 @@ $ git clone https://github.com/syakirharis25/Go.git
 $ cd Go/
 $ git remote -v
 $ git status
+```
 
 <a name="calculation"></a>
 ## 7. GitHub repository calculation.

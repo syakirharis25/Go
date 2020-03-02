@@ -5,10 +5,11 @@ My works related to Go programming language.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Communicating sequential processes.](#CSP)
-4. [Installing Go programming language for Ubuntu 18.04 LTS manual.](#ubuntugo) 
-5. [Go programming jobs.](#jobs)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+4. [Installing Go programming language for Ubuntu 18.04 LTS manual.](#ubuntugo)
+5. [Go developers.] (#developers)
+6. [Go programming jobs.](#jobs)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -53,14 +54,6 @@ Switch evaluation order : https://tour.golang.org/flowcontrol/10 <br />
 **_Go programming language projects_** <br />
 GoBridge : https://github.com/gobridge <br />
 Microsoft open source projects website : https://opensource.microsoft.com <br />
-
-**_Go programming language developers in GitHub_** <br />
-Robert Griesemer : https://github.com/griesemer <br />
-Rob Pike : https://github.com/robpike <br />
-Ken Thompson : https://github.com/ken <br />
-Russ Cox : https://github.com/rsc <br />
-Brandon Minnick : https://github.com/brminnick <br />
-Francesc Campoy : https://github.com/campoy <br />
 
 <a name="CSP"></a>
 ## 3. Communicating sequential processes.
@@ -276,14 +269,23 @@ $ mkdir pkg
 $ ls
 ```
 
+<a name="developers"></a>
+## 5. Go developers.
+Brandon Minnick : https://github.com/brminnick <br />
+Francesc Campoy : https://github.com/campoy <br />
+Ken Thompson : https://github.com/ken <br />
+Rob Pike : https://github.com/robpike <br />
+Robert Griesemer : https://github.com/griesemer <br />
+Russ Cox : https://github.com/rsc <br />
+
 <a name="jobs"></a>
-## 5. Go programming jobs.
+## 6. Go programming jobs.
 Go / Golang Jobs & Developers by golangprojects : https://www.golangprojects.com <br />
 Go / Golang Jobs & Developers by golangprojects by Totaljobs : https://www.totaljobs.com/jobs/go-programmer <br />
 Go / Golang Jobs & Developers by golangprojects by SimplyHired : https://www.simplyhired.com/search?q=go+programming&job=yzD7SgAyVlbXVk56Z1e7EUJnm1CSOvVfNNgGES9xpACHOiI5Y8bUBw <br />
 
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Go.git
@@ -293,7 +295,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 8. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
